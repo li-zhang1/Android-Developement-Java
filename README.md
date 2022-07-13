@@ -1,2 +1,2 @@
 # Android-Developement-Java
-My First small application written in JAVA
+My first tiny application written in JAVA
